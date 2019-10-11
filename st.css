@@ -1,0 +1,147 @@
+body
+{
+	background-image: url(it2.jpg);
+}
+#col
+{
+	background-color: #000000;
+	font-size: 45px;
+	margin:23px,14px;
+	border-top-left-radius: 34px;
+	border-bottom-left-radius: 34px;
+	border-bottom-right-radius: 34px;
+	width: 600px;
+	height: 600px;
+}
+.in
+{
+	margin-top: 34px;
+	margin-bottom: 34px;
+	width: 300px;
+	padding-top: 23px;
+}
+hr{
+	width: 300px;
+}
+#li
+{
+float: right;
+/* font-color: white; */
+ background-color: black;
+color: #111;
+padding-right: 60px;
+outline: none;
+width: 600px;
+font-size: 20px;
+
+}
+ul
+{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+} 
+
+#by
+{
+background: grey;
+outline: none;
+}
+#perf
+{
+	background-color: grey;
+	color: white;
+	width: 600px;
+	height: 600px;
+	border-top-left-radius: 45px;
+	border-top-right-radius: 45px;
+	border-bottom-left-radius: 45px;
+	border-bottom-right-radius: 45px;
+
+}
+.cache
+{
+	width: 200px;
+	height: 40px;
+	margin-top: 52px;
+
+}
+.your
+{
+	width: 300px;
+	height: 90px;
+}
+#but
+{
+	background-color: #111111;
+	color: white;
+}
+#pic
+{
+	background-color: white;
+}
+#bn
+{
+	width: 300px;
+	height: 30px;
+	border-top-right-radius: 30px;
+	border-top-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+}
+.wel
+{
+	position: center;
+	background-image: url("cover.jpg");
+	height: 400px;
+	width: 600px;
+	border-top-right-radius: 30px;
+	border-top-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	color: #111111;
+	font-size: 23px;
+
+}
+#admin
+{
+	color: #111111;
+	background-color: #000000;
+	width: 600px;
+	height: 300px;
+	border-bottom-right-radius: 45px;
+	border-top-left-radius: 45px;
+	border-bottom-left-radius: 45px;
+	border-top-right-radius: 45px;
+}
+.out
+{
+	width: 300px;
+	height: 60px;
+	position: center;
+
+}
+#foot
+{
+	background-color: #000000;
+	color: white;
+}
